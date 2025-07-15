@@ -1,2 +1,2 @@
-# cicd-demo
-CICD Demo 
+# ci-demo
+CI Demo 
